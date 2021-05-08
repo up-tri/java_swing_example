@@ -18,7 +18,7 @@ public class App01 {
     // フレームの作成
     JFrame frame = new JFrame("ウインドウタイトル");
     // 左上x,y座標、右下x,y座標
-    frame.setBounds(50, 50, 350, 350);
+    frame.setBounds(50, 50, 300, 300);
 
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     frame.setVisible(true);

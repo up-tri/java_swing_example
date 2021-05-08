@@ -21,7 +21,7 @@ public class App04 {
 
   public void execute() {
     JFrame frame = new JFrame("ウインドウタイトル");
-    frame.setBounds(50, 50, 350, 350);
+    frame.setBounds(50, 50, 300, 300);
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     utils.app04.Canvas panel = new utils.app04.Canvas();
